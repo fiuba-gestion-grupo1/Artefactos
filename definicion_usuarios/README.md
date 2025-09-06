@@ -1,9 +1,2 @@
-# Definición de usuarios
-
-## Descripción del artefacto
-
-X
-
-## Documentación de los documentos relacionados
-
-X.
+# Definicion de usuarios
+En esta seccion se definen los distintos usuarios planteados como posibles usuarios de la aplicacion.
