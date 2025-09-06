@@ -33,8 +33,7 @@ Permite definir claramente qué características forman parte de la identidad de
 - Proporciona un chat para viajeros filtrado por destino, fomentando la conexión entre usuarios.  
 - Presenta listas de actividades y lugares destacados en base a reseñas de la comunidad.  
 
-## No Hace
-- No vende directamente vuelos, hoteles o transporte (solo enlaza y compara).  
+## No Hace  
 - No organiza paquetes turísticos cerrados.  
 - No reemplaza los sistemas de gestión internos de hoteles o aerolíneas.  
 - No funciona como billetera electrónica independiente para pagos.  
@@ -45,4 +44,4 @@ Permite definir claramente qué características forman parte de la identidad de
 Este artefacto se relaciona directamente con:  
 - **Visión del Producto:** dado que define los límites del “qué es y qué no es” de la solución.  
 - **Definición de Personas:** porque a partir de los perfiles de usuario se identifican qué funcionalidades realmente necesita el producto.  
-- **Features y User Story Mapping:** ya que el “Hace / No Hace” permite priorizar funcionalidades dentro del MVP y evitar desarrollar funciones fuera de alcance.  
+
