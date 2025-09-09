@@ -10,4 +10,4 @@ Toda la documentación del artefacto desarrollado se encuentra dentro de la carp
 
 ## Uso de la IA
 
-La explicación de como fue utilizada la 'Inteligencia Artificial' para la creación del artefacto se encuentra dentro de la carpeta 'ia'.
+Utilizamos la IA como apoyo para la calificación a cada feature según el usuario. En primer lugar, realizamos una lista de las funcionalidades principales de la plataforma de acuerdo a artefactos como "Es - No es - Hace - No hace" y el "USM"; de esta lista elegimos 7 features clave. Una vez elegido esto le enviamos a la IA las personas detalladas en el artefacto "Personas" junto con las features elegidas y le pedimos que de acuerdo a cada perfil y sus necesidades evaluara que clasificacion, entre 1 y 5 estrellas, le daría a las funcionalidades.Dentro de la carpeta 'ia' se encuentra la conversación con ChatGPT.
