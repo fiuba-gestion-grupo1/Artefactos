@@ -10,4 +10,4 @@ Toda la documentación del artefacto desarrollado se encuentra dentro de la carp
 
 ## Uso de la IA
 
-La explicación de como fue utilizada la 'Inteligencia Artificial' para la creación del artefacto se encuentra dentro de la carpeta 'ia'.
+Para la generación del cronograma, le adjunté a chatGPT las fechas de entrega del TP junto con los nombres de los miembros de grupo y la consigna y utilice el prompt "Generame un cronograma que respete éstas fechas de entrega para este trabajo. Dividí cada trabajo por semana en 6 y asignalo a cada miembro del grupo. Si el trabajo no puede dividirse en 6, entonces asigna el trabajo mas pesado al miembro faltante junto con el otro miembro asignado."
