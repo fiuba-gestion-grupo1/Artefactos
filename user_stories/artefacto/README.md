@@ -107,3 +107,7 @@
 - **Como** viajero frecuente,  
   **quiero** guardar mis datos para futuros check-ins,  
   **para** no tener que ingresarlos cada vez.
+
+## Uso de IA
+
+Para nuevas ideas de user stories utilicé el prompt "Dados estos ejemplos de user stories y esta definición de es-no es-hace-no hace, creame más historias de usuarios."
