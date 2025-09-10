@@ -10,4 +10,4 @@ Toda la documentación del artefacto desarrollado se encuentra dentro de la carp
 
 ## Uso de la IA
 
-La explicación de como fue utilizada la 'Inteligencia Artificial' para la creación del artefacto se encuentra dentro de la carpeta 'ia'.
+En este caso, el uso de la IA se orientó a generar una idea de los perfiles más habituales de las personas que podrían estar interesadas en utilizar la aplicación. La idea principal surgió a partir de un archivo que elaboramos en conjunto con el grupo, en el cual definimos ciertas características de la aplicación, asegurándonos previamente de compartir una visión común sobre hacia dónde queremos dirigirnos. Una vez realizado este paso, utilizamos dicho archivo junto con la IA para crear historias de usuario que nos permitieran definir con mayor precisión esos perfiles más representativos.

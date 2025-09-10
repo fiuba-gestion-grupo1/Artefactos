@@ -11,4 +11,4 @@ Toda la documentación del artefacto desarrollado se encuentra dentro de la carp
 
 ## Uso de la IA
 
-La explicación de como fue utilizada la 'Inteligencia Artificial' para la creación del artefacto se encuentra dentro de la carpeta 'ia'.
+En el caso del artefacto Es / No Es / Hace / No Hace, seguimos el mismo procedimiento que en otras partes del trabajo: primero armamos entre todos un archivo con las ideas principales del producto y luego usamos la IA para organizar y completar esa información. Así logramos dejar bien definido qué es la aplicación, qué no es, qué hace y qué no hace, de manera clara.
