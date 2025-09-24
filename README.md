@@ -18,3 +18,7 @@ En este repositorio documental residen los artefactos desarrollados por el grupo
 Plan&Go es una plataforma digital diseñada para viajeros individuales y grupos que desean planificar y disfrutar sus viajes de forma sencilla y organizada. La aplicación centraliza en un solo lugar herramientas clave para la gestión del viaje, incluyendo la organización de presupuestos grupales, el check-in en línea y la conexión con otros viajeros.
 
 A diferencia de soluciones tradicionales como TripAdvisor, Plan&Go integra funcionalidades financieras, automatización de tareas y canales de comunicación directa, ofreciendo una experiencia de viaje más ágil, colaborativa y personalizada. Nuestro objetivo es simplificar cada etapa del viaje, desde la planificación hasta la ejecución, asegurando que los usuarios puedan enfocarse en disfrutar más y preocuparse menos.
+
+## Link a la carpeta compartida de Drive
+
+[Carpeta compartida](https://drive.google.com/drive/folders/1mV4FT8AG4qj3LD7OTIPIRS-VEYVcMnrt)
